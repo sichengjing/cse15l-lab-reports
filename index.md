@@ -7,6 +7,7 @@ Hello, world!
 
 ![Image](https://commonmark.org/help/images/favicon.png)
 > Blockquote
+
 * List
 * List
 * List
@@ -15,7 +16,7 @@ Hello, world!
 3. Three
 
 Horizontal rule:
-_ _ _
+***
 
 `Inline code` with backticks
 
