@@ -12,9 +12,12 @@ Hello, world!
 1. One
 2. One
 3. Three
+
 Horizontal rule:
 _ _ _
+
 'Inline code' with backticks
+
 '''
 # code block
 print '3 backticks or'
