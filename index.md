@@ -25,9 +25,11 @@ Heading 2
 - List
 - List
 - List
+
 1. One
 2. Two
 3. Three
+
 1) One    
 2) Two   
 3) Three  
@@ -37,6 +39,7 @@ Heading 2
 
 Horizontal rule:
 ***
+
 Horizontal rule:
 ___
 
