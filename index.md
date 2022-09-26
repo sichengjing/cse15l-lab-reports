@@ -28,9 +28,9 @@ Heading 2
 1. One
 2. Two
 3. Three
-1) One    # code block
-2) Two    print '3 backticks or'
-3) Three  print 'indent 4 spaces'
+1) One    
+2) Two   
+3) Three  
 
 [1]: https://www.youtube.com/watch?v=GZqizez1Dzs
 [2]: https://commonmark.org/help/images/favicon.png
@@ -47,3 +47,6 @@ ___
 print '3 backticks or'
 print 'indent 4 spaces'
 ```
+    # code block
+    print '3 backticks or'
+    print 'indent 4 spaces'
