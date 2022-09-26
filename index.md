@@ -38,7 +38,7 @@ Heading 2
 Horizontal rule:
 ***
 Horizontal rule:
----
+___
 
 `Inline code` with backticks
 
