@@ -1,4 +1,5 @@
 Hello, world!
+new text
 
 *Italic*
 _Italic_
