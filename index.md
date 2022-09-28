@@ -55,4 +55,5 @@ print 'indent 4 spaces'
     print '3 backticks or'
     print 'indent 4 spaces'
 
-[lab-report-1-week-0]()
+[lab-report-1-week-0](https://sichengjing.github.io/cse15l-lab-reports/lab-report-1-week-0.html)
+[newfile](https://sichengjing.github.io/cse15l-lab-reports/newfile.html)
